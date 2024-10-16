@@ -1,0 +1,63 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+# Ignorar archivos y carpetas de sistema
+*.DAT
+*.ini
+*.blf
+*.regtrans-ms
+*.LOG*
+
+# Ignorar carpetas de usuario en Windows
+AppData/
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+OneDrive/
+Pictures/
+Saved\ Games/
+Searches/
+Videos/
+
+# Ignorar carpetas de herramientas y configuración de IDEs
+.m2/
+.redhat/
+.sts4/
+.vscode/
+
+# Ignorar archivos ejecutables y scripts de Maven
+
